@@ -1,4 +1,4 @@
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 780px) {
   img.top-cloud, img.middle-cloud, img.bottom-cloud {
     display: none;
   }
