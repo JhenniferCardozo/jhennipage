@@ -1,5 +1,11 @@
-@media only screen and (max-width: 600px) {
-  img.top-cloud, img.middle-cloud, img.bottom-cloud {
+@media (max-width: 1028px) {
+  .top-cloud {
+    display: none;
+  }
+   .middle-cloud {
+    display: none;
+  }
+   .bottom-cloud {
     display: none;
   }
 }
