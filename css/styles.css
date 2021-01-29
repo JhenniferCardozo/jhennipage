@@ -2,11 +2,21 @@
   .top-cloud {
     display: none;
   }
+  
    .middle-cloud {
     display: none;
   }
+  
    .bottom-cloud {
     display: none;
+  }
+  
+  h2 {
+    font-size: 4rem;
+  }
+  
+  .intro {
+  font-size: 3rem;
   }
 }
 
